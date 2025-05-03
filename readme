@@ -1,0 +1,7 @@
+Il s'agit d'une application web e-commerce développée avec Flask et SQLite, dédiée à la vente de produits de skincare. Elle permet aux utilisateurs de :
+
+- Créer un compte et se connecter
+- Parcourir une liste de produits
+- Ajouter des articles à leur panier
+- Visualiser et gérer leur panier
+- Finaliser un achat (à implémenter éventuellement)
